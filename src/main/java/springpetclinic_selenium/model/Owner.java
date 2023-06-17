@@ -8,6 +8,7 @@ public class Owner {
     private String telephone;
     
     /**
+    adding new comments
      * @param firstName
      * @param lastName
      * @param address
